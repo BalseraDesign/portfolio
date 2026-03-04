@@ -24,11 +24,11 @@ const translations = {
         "subtitulo": "Diseñador web & programador.",
         "descripcion-inicio": "Combino diseño intuitivo con código limpio para crear experiencias web funcionales y visualmente impactantes.",
 
-        // Sobre mí
-        "sobre-mi-titulo": "Sobre mí",
-        "sobre-mi-p1": "Soy un diseñador web y programador apasionado por crear experiencias digitales modernas, funcionales y estéticamente impactantes. Me especializo en el desarrollo de interfaces limpias y eficientes, combinando creatividad con código para dar vida a ideas únicas.",
-        "sobre-mi-p2": "Tengo experiencia trabajando con HTML, CSS, JavaScript y frameworks modernos. Me gusta mantenerme actualizado con las últimas tendencias en diseño UI/UX y tecnologías web. Siempre busco soluciones que sean tanto visualmente atractivas como técnicamente sólidas.",
-        "sobre-mi-p3": "Actualmente me estoy especializando en inteligencia artificial (AI) y consultoría en AI, aplicando mis conocimientos de desarrollo web y programación para crear soluciones innovadoras basadas en IA.",
+    // Sobre mí
+    "sobre-mi-titulo": "Sobre mí",
+    "sobre-mi-p1": "CRM/ERP Consultant & Developer con experiencia en Odoo y Dolibarr. Actualmente trabajo como Technical Lead en Win Innovación, liderando equipos técnicos y desarrollando soluciones ERP/CRM para clientes. Busco nuevas oportunidades y estoy disponible para relocation a Irlanda.",
+    "core-skills-titulo": "Competencias principales",
+    "core-skills-list": "ERPs & CRMs (Dolibarr, Odoo) · Desarrollo web: PHP, JavaScript, HTML5/CSS3 · APIs, AJAX, Python, SQL · Soporte técnico y comunicación con clientes · Git / GitHub",
 
         // Proyectos
         "proyectos-titulo": "Proyectos Profesionales",
@@ -54,6 +54,7 @@ const translations = {
         "proyecto-friendzoneai": "Aplicación social que utiliza inteligencia artificial para conectar personas con intereses similares en su zona geográfica. Incluye algoritmos de matching inteligente, tareas gamificadas generadas por IA para mejorar perfiles de usuario, sistema de geolocalización y chat integrado. Desarrollada pensando en crear conexiones auténticas y significativas.",
         "proyecto-nordicdreams": "Nordic Dreams es una web para una agencia turística de Noruega, desarrollada con HTML5, CSS3 y JavaScript Vanilla. Incluye diseño responsive, galería de destinos, formulario de contacto y recomendaciones personalizadas para viajeros.",
     "proyecto-businessanalytics": "Módulo desarrollado para Dolibarr con PHP, HTML, CSS, JavaScript y SQL. Permite registrar y visualizar el número de clientes nuevos, productos, facturas pendientes y ventas totales, mostrando gráficos interactivos para cada métrica y facilitando el análisis de negocio en tiempo real.",
+            "proyecto-erp": "Desarrollo y personalización de soluciones ERP/CRM para clientes utilizando Dolibarr y Odoo. Incluye creación de módulos, integración de APIs, automatización de procesos y soporte técnico continuado.",
 
         // Tecnologías
         "tecnologias-titulo": "Tecnologías / Habilidades Destacadas",
@@ -170,11 +171,11 @@ const translations = {
         "subtitulo": "Web designer & programmer.",
         "descripcion-inicio": "I combine intuitive design with clean code to create functional and visually striking web experiences.",
 
-        // Sobre mí
-        "sobre-mi-titulo": "About me",
-        "sobre-mi-p1": "I'm a web designer and programmer passionate about creating modern, functional and aesthetically striking digital experiences. I specialize in developing clean and efficient interfaces, combining creativity with code to bring unique ideas to life.",
-        "sobre-mi-p2": "I have experience working with HTML, CSS, JavaScript and modern frameworks. I like to stay updated with the latest trends in UI/UX design and web technologies. I always look for solutions that are both visually appealing and technically solid.",
-        "sobre-mi-p3": "I'm currently specializing in artificial intelligence (AI) and AI consulting, applying my web development and programming knowledge to create innovative AI-based solutions.",
+    // Sobre mí
+    "sobre-mi-titulo": "About me",
+    "sobre-mi-p1": "CRM/ERP Consultant & Developer with experience in Odoo and Dolibarr. Currently working as Technical Lead at Win Innovación, leading technical teams and developing ERP/CRM solutions for clients. Seeking new opportunities and available to relocate to Ireland.",
+    "core-skills-titulo": "Core skills",
+    "core-skills-list": "ERPs & CRMs (Dolibarr, Odoo) · Web development: PHP, JavaScript, HTML5/CSS3 · APIs, AJAX, Python, SQL · Technical support and client communication · Git / GitHub",
 
         // Proyectos
         "proyectos-titulo": "Professional Projects",
@@ -200,6 +201,7 @@ const translations = {
         "proyecto-friendzoneai": "Social application that uses artificial intelligence to connect people with similar interests in their geographic area. Features intelligent matching algorithms, gamified AI-generated tasks to improve user profiles, geolocation system, and integrated chat. Developed to create authentic and meaningful connections.",
         "proyecto-nordicdreams": "Nordic Dreams is a website for a Norwegian travel agency, developed with HTML5, CSS3 and Vanilla JavaScript. Features responsive design, destination gallery, contact form and personalized recommendations for travelers.",
     "proyecto-businessanalytics": "Module developed for Dolibarr with PHP, HTML, CSS, JavaScript and SQL. Allows registering and visualizing the number of new clients, products, pending invoices and total sales, displaying interactive charts for each metric and facilitating real-time business analysis.",
+        "proyecto-erp": "Development and customization of ERP/CRM solutions for clients using Dolibarr and Odoo. Includes module creation, API integrations, process automation and ongoing technical support.",
 
         // Tecnologías
         "tecnologias-titulo": "Technologies / Featured Skills",
